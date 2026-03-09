@@ -165,7 +165,8 @@ IPLDATASETANALYSIS/
 
 ## 1️⃣ Top 5 Highest Winning Teams
 
-![Top Teams](images/1_top_5_teams_pie_chart.png)
+![Top 5 Teams Pie Chart](images/1_top_5_teams_pie_chart.png)
+
 
 **Teams shown with percentages:**
 
@@ -183,7 +184,8 @@ Mumbai Indians lead with **22.5% of wins** among the top teams.
 
 ## 2️⃣ Did Toss Winner Also Win the Match?
 
-![Toss Analysis](images/toss_match_result.png)
+![Toss Impact Analysis](images/2_toss_winner_match_win.png)
+
 
 **Results**
 
@@ -199,7 +201,7 @@ There is approximately a **50-50 chance**.
 
 ## 3️⃣ Top Teams by Match Wins
 
-![Team Wins](images/team_match_wins.png)
+![Teams Bar Chart](images/3_top_teams_bar_chart.png)
 
 **Ranking**
 
@@ -217,7 +219,7 @@ Mumbai Indians show **clear dominance with 140 wins**.
 
 ## 4️⃣ Top 10 Batsmen Appearances
 
-![Top Batsmen](images/top_batsmen.png)
+![Top Batsmen Chart](images/4_top_batsmen_bar_chart.png)
 
 **Top Players**
 
